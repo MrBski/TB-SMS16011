@@ -1,0 +1,4 @@
+timestamp,parameter_name,value,unit,position,note,rawText
+2025-10-06T15:05:02,RPM,1300,,M. E PORTSIDE,BEFORE,
+2025-10-06T15:05:02,L. O PRESS,0.4,bar,M. E PORTSIDE,BEFORE,
+2025-10-06T15:05:02,Exhaust,400420,,M. E PORTSIDE,BEFORE,
